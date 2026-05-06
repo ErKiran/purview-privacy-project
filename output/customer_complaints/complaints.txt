@@ -1,0 +1,160 @@
+Complaint #1
+Customer: Justin Pratt
+Email: amanda51@example.net
+Phone: 439.410.1958
+Order ID: ORD-2024-34590
+Complaint Date: 2024-09-10
+Case Number: CASE-2024-53076
+Issue Type: product defect
+Issue Description: A key component is missing from the package.
+Payment Mentioned: I paid with my Visa ending in 3954
+Home Address: 683 Denise Field Suite 848, North Seanland, WV 57823
+Resolution Notes: Approved replacement shipment and provided return label.
+Agent Name: Elizabeth Stone
+
+------------------------------------------------------------------------
+
+Complaint #2
+Customer: Mrs. Alexis Brown MD
+Email: fisherjennifer@example.net
+Phone: 582.981.9691x39031
+Order ID: ORD-2025-13866
+Complaint Date: 2025-05-12
+Case Number: CASE-2025-33227
+Issue Type: product defect
+Issue Description: The item stopped working after two days of use.
+Payment Mentioned: I paid with my Visa ending in 3282
+Home Address: 3651 Leblanc Extension, Woodsbury, MP 17759
+Resolution Notes: Issued full refund after defect verification.
+Agent Name: Frederick Nelson
+
+------------------------------------------------------------------------
+
+Complaint #3
+Customer: Abigail Garcia
+Email: matthew18@example.com
+Phone: 201.850.9774
+Order ID: ORD-2024-75156
+Complaint Date: 2024-09-29
+Case Number: CASE-2024-55121
+Issue Type: billing dispute
+Issue Description: I see an unauthorized fee on my monthly statement.
+Payment Mentioned: I paid with my Amex ending in 4912
+Home Address: 74771 Pollard Underpass, Lake Stephanie, GU 08821
+Resolution Notes: Validated duplicate charge; initiated refund within 5 business days.
+Agent Name: Billy Robinson
+
+------------------------------------------------------------------------
+
+Complaint #4
+Customer: Robert Long
+Email: ustevens@example.org
+Phone: +1-680-610-4182x78791
+Order ID: ORD-2025-20610
+Complaint Date: 2025-07-17
+Case Number: CASE-2025-47557
+Issue Type: service failure
+Issue Description: Support never followed up after opening the ticket.
+Payment Mentioned: I paid with my Mastercard ending in 3381
+Home Address: 42502 Roberto Forest Apt. 970, Timothyview, UT 04497
+Resolution Notes: Rescheduled service with priority handling and waived fee.
+Agent Name: Michael Friedman
+
+------------------------------------------------------------------------
+
+Complaint #5
+Customer: Rhonda Taylor
+Email: margaretwagner@example.org
+Phone: 001-243-504-4762x10727
+Order ID: ORD-2025-54550
+Complaint Date: 2025-10-22
+Case Number: CASE-2025-33236
+Issue Type: billing dispute
+Issue Description: I was charged twice for the same order and need a refund.
+Payment Mentioned: I paid with my Amex ending in 4061
+Home Address: 898 Joseph Highway Suite 463, Dawsonshire, VA 51167
+Resolution Notes: Adjusted invoice and sent corrected statement to customer.
+Agent Name: Timothy Armstrong
+
+------------------------------------------------------------------------
+
+Complaint #6
+Customer: Judy Garcia
+Email: alexander32@example.com
+Phone: 001-303-538-6818
+Order ID: ORD-2024-22331
+Complaint Date: 2024-11-29
+Case Number: CASE-2024-03916
+Issue Type: billing dispute
+Issue Description: The invoice total does not match the checkout amount.
+Payment Mentioned: I paid with my Discover ending in 6500
+Home Address: 0972 Long Mill, Heatherville, CT 65223
+Resolution Notes: Validated duplicate charge; initiated refund within 5 business days.
+Agent Name: Nancy Gross
+
+------------------------------------------------------------------------
+
+Complaint #7
+Customer: Robert Perry
+Email: alexandra12@example.org
+Phone: (976)769-7336
+Order ID: ORD-2025-01933
+Complaint Date: 2025-03-19
+Case Number: CASE-2025-46294
+Issue Type: billing dispute
+Issue Description: I see an unauthorized fee on my monthly statement.
+Payment Mentioned: I paid with my Amex ending in 4603
+Home Address: PSC 7054, Box 1491, APO AP 79979
+Resolution Notes: Adjusted invoice and sent corrected statement to customer.
+Agent Name: Christina Moody
+
+------------------------------------------------------------------------
+
+Complaint #8
+Customer: Carolyn Stevens
+Email: michaelmurphy@example.net
+Phone: 666-749-9798
+Order ID: ORD-2024-75119
+Complaint Date: 2024-12-02
+Case Number: CASE-2024-98372
+Issue Type: product defect
+Issue Description: The product arrived damaged and unusable.
+Payment Mentioned: I paid with my Mastercard ending in 9225
+Home Address: 3992 Snyder Point, Lake Holly, IL 08158
+Resolution Notes: Issued full refund after defect verification.
+Agent Name: Alyssa Lawson
+
+------------------------------------------------------------------------
+
+Complaint #9
+Customer: Albert Stokes
+Email: adamchan@example.org
+Phone: 223.597.4153
+Order ID: ORD-2025-90001
+Complaint Date: 2025-02-20
+Case Number: CASE-2025-48069
+Issue Type: product defect
+Issue Description: A key component is missing from the package.
+Payment Mentioned: I paid with my Mastercard ending in 8125
+Home Address: 54857 Amy Stream, South Deborahhaven, TN 56301
+Resolution Notes: Approved replacement shipment and provided return label.
+Agent Name: Madison Vargas
+
+------------------------------------------------------------------------
+
+Complaint #10
+Customer: Dennis Roberts
+Email: jennifer41@example.net
+Phone: +1-332-789-9300x32852
+Order ID: ORD-2024-63768
+Complaint Date: 2024-07-05
+Case Number: CASE-2024-02459
+Issue Type: product defect
+Issue Description: The item stopped working after two days of use.
+Payment Mentioned: I paid with my Mastercard ending in 6197
+Home Address: 7839 George Inlet Apt. 230, Raystad, NM 27722
+Resolution Notes: Approved replacement shipment and provided return label.
+Agent Name: Cory Harris
+
+------------------------------------------------------------------------
+
